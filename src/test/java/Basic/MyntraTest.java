@@ -12,6 +12,9 @@ public class MyntraTest {
 		driver.get("https://www.myntra.com/");
 		String actualtitle = driver.getTitle();
 		System.out.println(actualtitle);
+		System.out.println(actualtitle);
+		System.out.println(actualtitle);
+		
 		
 	}
 
